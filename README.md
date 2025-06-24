@@ -49,8 +49,8 @@ I also build websites and develop with **CSS**, **HTML**, and **JS**.
 
 ### 📬 Get in Touch
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **Website/Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+- **Email:** [your.email@example.com](####)
+- **Website/Portfolio:** [yourwebsite.com](####)
 
 Feel free to check out my repositories for more of my work! 😊
 
